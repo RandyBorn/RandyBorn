@@ -12,3 +12,4 @@
 - 📫 How to reach me: randy.born@dci-student.org or Randyborn677@yahoo.com
 - ⚡ Fun fact: ... ich habe an einem Valentinstag geburstag :)
 -->
+man_technologist:
