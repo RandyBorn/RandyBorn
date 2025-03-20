@@ -3,7 +3,7 @@
 
 ** I’m currently a student at DCI - Digital Career institute
 <a href="https://example.com" target="_blank">
-  <img src="https://img.shields.io/badge/Visit%20Example-blue?style=for-the-badge&logo=google" alt="Button">
+  <img src="https://img.shields.io/badge/Visit%20Example-green?style=for-the-badge&logo=google" alt="Button">
 </a>
 
 
