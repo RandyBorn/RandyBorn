@@ -3,6 +3,7 @@
 
 ** I’m currently a student at DCI - Digital Career institute
 
+![Mein Banner](https://example.com/banner.png)
 
 - 🔭 I’m currently working on Github.
 - 🌱 I’m currently learning HTMl , CSS , Markdown , Bash , Github and Javascipt
@@ -12,6 +13,5 @@
 - 📫 How to reach me: randy.born@dci-student.org or Randyborn677@yahoo.com
 - ⚡ Fun fact: ... ich habe an einem Valentinstag geburstag :)
 -->
-man_technologist:
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+
