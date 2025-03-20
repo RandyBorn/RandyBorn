@@ -15,7 +15,9 @@
 - 📫 How to reach me: randy.born@dci-student.org or Randyborn677@yahoo.com
 - ⚡ Fun fact: ... ich habe an einem Valentinstag geburstag :)
 -->
-
+<div style="font-size: 50px; color: #0366d6;">
+  🚀
+</div> 
 <table style="width: 100%; border-collapse: collapse; margin-top: 20px;">
   <thead>
     <tr>
