@@ -16,4 +16,14 @@
 - ⚡ Fun fact: ... ich habe an einem Valentinstag geburstag :)
 -->
 
+<div style="display: flex; justify-content: space-between;">
+  <div style="width: 48%; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
+    <h3>Projekt A</h3>
+    <p>Beschreibung des Projekts A</p>
+  </div>
+  <div style="width: 48%; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
+    <h3>Projekt B</h3>
+    <p>Beschreibung des Projekts B</p>
+  </div>
+</div>
 
