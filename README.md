@@ -16,14 +16,22 @@
 - ⚡ Fun fact: ... ich habe an einem Valentinstag geburstag :)
 -->
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="width: 48%; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
-    <h3>Projekt A</h3>
-    <p>Beschreibung des Projekts A</p>
-  </div>
-  <div style="width: 48%; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
-    <h3>Projekt B</h3>
-    <p>Beschreibung des Projekts B</p>
-  </div>
-</div>
+<table style="width: 100%; border-collapse: collapse; margin-top: 20px;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid #ddd; padding: 8px; background-color: #f4f4f4;">Projekt</th>
+      <th style="border: 1px solid #ddd; padding: 8px; background-color: #f4f4f4;">Technologien</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Projekt A</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">HTML, CSS, JavaScript</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">Projekt B</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">React, Node.js</td>
+    </tr>
+  </tbody>
+</table>
 
