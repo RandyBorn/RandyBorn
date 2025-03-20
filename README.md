@@ -2,8 +2,10 @@
 
 
 ** I’m currently a student at DCI - Digital Career institute
+<a href="https://example.com" target="_blank">
+  <img src="https://img.shields.io/badge/Visit%20Example-blue?style=for-the-badge&logo=google" alt="Button">
+</a>
 
-![Mein Banner](https://example.com/banner.png)
 
 - 🔭 I’m currently working on Github.
 - 🌱 I’m currently learning HTMl , CSS , Markdown , Bash , Github and Javascipt
