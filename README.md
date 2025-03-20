@@ -13,4 +13,5 @@
 - ⚡ Fun fact: ... ich habe an einem Valentinstag geburstag :)
 -->
 man_technologist:
-:smile: :rocket: :star:
+
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
