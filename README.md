@@ -25,11 +25,11 @@
   </thead>
   <tbody>
     <tr>
-      <td style="border: 1px solid #ddd; padding: 8px;">Projekt A</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Projekt </td>
       <td style="border: 1px solid #ddd; padding: 8px;">HTML, CSS, JavaScript</td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ddd; padding: 8px;">Projekt B</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Projekt </td>
       <td style="border: 1px solid #ddd; padding: 8px;">React, Node.js</td>
     </tr>
   </tbody>
