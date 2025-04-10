@@ -1,34 +1,29 @@
-## Welcome' my name is Randy Born 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Randy Born
+==================================================================================================================================
+
+Web Developer
+-------------
+
+I’m currently a student at DCI - Digital Career institute 💬
+
+* 🌍  I'm based in Oberhausen,Germany
+* ✉️  You can contact me at [randy.born@dci-student.org](mailto:randy.born@dci-student.org )
+* 🧠  I'm learning React
+
+### Skills
 
 
-** I’m currently a student at DCI - Digital Career institute
-<a href="https://example.com" target="_blank">
-  <img src="https://img.shields.io/badge/Visit%20Example-green?style=for-the-badge&logo=" alt="Button" heigt="80px">
-</a>
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+</p>
 
 
-- 🔭 I’m currently working on Github.
-- 👯 I’m looking to collaborate on creating webside
+### Socials
 
-- 💬 Ask me about HTML and CSS
-- 📫 How to reach me: randy.born@dci-student.org or Randyborn677@yahoo.com
+<p align="left"> <a href="https://www.github.com/RandyBorn" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
-<table style="width: 100%; border-collapse: collapse; margin-top: 20px;">
-  <thead>
-    <tr>
-      <th style="border: 1px solid #ddd; padding: 8px; background-color: #f4f4f4;">Projekt</th>
-      <th style="border: 1px solid #ddd; padding: 8px; background-color: #f4f4f4;">Technologien</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border: 1px solid #ddd; padding: 8px;">Projekt </td>
-      <td style="border: 1px solid #ddd; padding: 8px;">HTML, CSS, JavaScript</td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #ddd; padding: 8px;">Projekt </td>
-      <td style="border: 1px solid #ddd; padding: 8px;">React, Node.js</td>
-    </tr>
-  </tbody>
-</table>
+### Badges
 
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/RandyBorn"><img src="https://github-readme-stats.vercel.app/api?username=RandyBorn&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="RandyBorn's GitHub stats" /></a>
