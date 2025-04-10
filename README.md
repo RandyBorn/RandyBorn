@@ -3,13 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Web Developer
 -------------
-
-I’m currently a student at DCI - Digital Career institute 💬
-
-* 🌍  I'm based in Oberhausen,Germany
-* ✉️  You can contact me at [randy.born@dci-student.org](mailto:randy.born@dci-student.org )
-* 🧠  I'm learning React
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=33A4F7&background=FDFF9600&width=435&lines=I%E2%80%99m+currently+a+student+at+DCI+;I'm+based+in+Oberhausen%2CGermany)](https://git.io/typing-svg)
 ### Skills
 
 
