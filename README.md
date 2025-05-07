@@ -1,8 +1,8 @@
 Hi Welcome to my Github Profile ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Randy Born
 ==================================================================================================================================
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=23&duration=5002&pause=999&color=33A4F7&background=FDFF9600&width=435&lines=I%E2%80%99m+currently+a+student+at+DCI+;I'm+based+in+Oberhausen%2CGermany;Welcome+to+my+Github+Proile;)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.comfont=Fira+Code&weight=500&size=23&duration=5002&pause=999&color=33A4F7&background=FDFF9600&width=435&lines=I%E2%80%99m+currently+a+student+at+DCI+;I'm+based+in+Oberhausen%2CGermany;Welcome+to+my+Github+Proile;)](https://git.io/typing-svg)
 ### Skills
 
 
